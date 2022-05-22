@@ -1,2 +1,2 @@
-# mini-projects
-A collection of mine mini projects
+# Fizz Buzz Game
+Practing Javascript
