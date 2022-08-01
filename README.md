@@ -1,2 +1,1 @@
-# Fizz Buzz Game
-Practing Javascript
+A Fizz Buzz Game using Javascript.
